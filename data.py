@@ -22,18 +22,13 @@ class Data:
     ]
 
     START = """
-Hey {}
+ʜᴇʏ {}
 
-Welcome to {}
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {}
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
+» ᴘʟᴇᴀꜱᴇ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ᴘʏᴛʜᴏɴ ʟɪʙʀᴀʀʏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ꜰᴏʀ
 
-Still reading?
-You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
-
-By @Bots_Hub_ll
+ʙʏ @Daisy_Support_chat
     """
 
     HELP = """
@@ -50,9 +45,9 @@ By @Bots_Hub_ll
     ABOUT = """
 **● ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ ●** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
+Telegram Bot to generate Pyrogram and Telethon string session by @Daisy_Support_chat
 
-● ᴏᴡɴᴇʀ ●: [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+● ᴏᴡɴᴇʀ ●: [Click Here](https://t.me/II_Ronny_II)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
